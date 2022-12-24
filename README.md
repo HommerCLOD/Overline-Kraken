@@ -1,2 +1,2 @@
 # Overline-Kraken
-Multi acc Bot for auto claiming OCash every day
+Multi acc Bot for auto claiming OCash every day using telegram api
